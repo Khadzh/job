@@ -1,0 +1,667 @@
+<NLP-document>
+    <text id="0">По всей видимости, протон-антипротонный коллайдер Теватрон, расположенный в Фермилаб в Чикаго будет закрыт в октябре 2011 года.
+Несмотря на то, что научные консультанты рекомендовали продлить его финансирование ещё на три года, Министерству энергетики США не удалось отыскать необходимые для этого средства.
+Теватрон обладает долгой и яркой историей.
+За 25 лет работы на нём было сделано немало больших открытий.
+Так, именно на Теватроне был впервые получен T-кварк — самая тяжёлая из известных фундаментальных частиц.
+На Теватроне была измерена асимметрия материи и антиматерии в процессах, в которых она никогда ранее не наблюдалась.
+На нём же были проведены самые точные на сегодняшний день измерения массы W-бозона, являющегося переносчиком слабого взаимодействия.
+Строительство Теватрона было закончено в 1983 году, однако источник антипротонов был установлен только в 1985 году, а в 1986 году были произведены первые столкновения частиц.
+Своё название коллайдер получил от сокращения ТэВ — тераэлектронвольт (триллион электрон-вольт), поскольку именно такую энергию протонов (1 ТэВ) планировалось получить на ускорителе.
+Однако эта цель была достигнута только в конце 90-х.
+Планировалось, что Теватрон параллельно с Большим адронным коллайдером (БАК) займётся поиском бозона Хиггса.
+Бозон Хиггса является важной составляющей так называемой Стандартной модели — общепринятой наиболее фундаментальной теории всех частиц, известных современной физике.
+Бозон Хиггса отвечает в этой модели за массу всех частиц, однако несмотря на упорные попытки, до сих пор не удаётся зафиксировать его в эксперименте.
+На данный момент только Теватрон и БАК имеют шансы поймать-таки неуловимую частицу.
+Для продолжения работы коллайдера по оценкам специалистов требовалось финансирование на уровне 35 млн долларов США в год, однако из-за сложной финансовой ситуации даже такие деньги оказались неподъёмными для правительства США.
+</text>
+    <annotations class="java.util.ArrayList">
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>3</start>
+            <end>17</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>19</start>
+            <end>93</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>76</start>
+            <end>93</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>87</start>
+            <end>93</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>109</start>
+            <end>126</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>117</start>
+            <end>126</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>140</start>
+            <end>142</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>148</start>
+            <end>168</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Anaphor">
+            <start>192</start>
+            <end>195</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue">
+                <antecedent class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+                    <start>19</start>
+                    <end>93</end>
+                    <annotated-text reference="0"/>
+                    <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+                </antecedent>
+            </value>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>192</start>
+            <end>210</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>218</start>
+            <end>226</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>228</start>
+            <end>255</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>241</start>
+            <end>255</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>252</start>
+            <end>255</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>292</start>
+            <end>306</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>308</start>
+            <end>316</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>326</start>
+            <end>349</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>354</start>
+            <end>374</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>361</start>
+            <end>374</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Anaphor">
+            <start>371</start>
+            <end>374</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue">
+                <antecedent class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+                    <start>308</start>
+                    <end>316</end>
+                    <annotated-text reference="0"/>
+                    <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+                </antecedent>
+            </value>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>395</start>
+            <end>411</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>428</start>
+            <end>437</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>485</start>
+            <end>517</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>522</start>
+            <end>531</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>546</start>
+            <end>590</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>557</start>
+            <end>578</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>567</start>
+            <end>578</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>581</start>
+            <end>590</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>594</start>
+            <end>601</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Anaphor">
+            <start>602</start>
+            <end>605</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue">
+                <antecedent class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+                    <start>546</start>
+                    <end>590</end>
+                    <annotated-text reference="0"/>
+                    <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+                </antecedent>
+            </value>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Anaphor">
+            <start>639</start>
+            <end>642</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue">
+                <antecedent class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+                    <start>522</start>
+                    <end>531</end>
+                    <annotated-text reference="0"/>
+                    <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+                </antecedent>
+            </value>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>677</start>
+            <end>693</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>694</start>
+            <end>767</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>704</start>
+            <end>767</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>710</start>
+            <end>767</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>732</start>
+            <end>767</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>745</start>
+            <end>767</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>769</start>
+            <end>792</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>783</start>
+            <end>792</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>810</start>
+            <end>819</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>828</start>
+            <end>849</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>837</start>
+            <end>849</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>874</start>
+            <end>883</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>889</start>
+            <end>898</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>916</start>
+            <end>942</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>936</start>
+            <end>942</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>944</start>
+            <end>957</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>958</start>
+            <end>967</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>979</start>
+            <end>1038</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>990</start>
+            <end>1038</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>994</start>
+            <end>1038</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>996</start>
+            <end>1038</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1051</start>
+            <end>1080</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1072</start>
+            <end>1080</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1081</start>
+            <end>1087</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1115</start>
+            <end>1125</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1134</start>
+            <end>1142</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1168</start>
+            <end>1179</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1199</start>
+            <end>1207</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1222</start>
+            <end>1250</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1252</start>
+            <end>1255</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1266</start>
+            <end>1287</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1274</start>
+            <end>1287</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1281</start>
+            <end>1287</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1289</start>
+            <end>1301</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1295</start>
+            <end>1301</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1311</start>
+            <end>1366</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1331</start>
+            <end>1366</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1365</start>
+            <end>1366</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1367</start>
+            <end>1434</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1412</start>
+            <end>1423</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1435</start>
+            <end>1453</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1455</start>
+            <end>1467</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1461</start>
+            <end>1467</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1479</start>
+            <end>1511</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1494</start>
+            <end>1511</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1500</start>
+            <end>1511</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1532</start>
+            <end>1547</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1552</start>
+            <end>1559</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Anaphor">
+            <start>1585</start>
+            <end>1588</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue">
+                <antecedent class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+                    <start>1455</start>
+                    <end>1467</end>
+                    <annotated-text reference="0"/>
+                    <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+                </antecedent>
+            </value>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1591</start>
+            <end>1603</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1608</start>
+            <end>1621</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1629</start>
+            <end>1643</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1640</start>
+            <end>1643</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1650</start>
+            <end>1687</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1656</start>
+            <end>1668</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1669</start>
+            <end>1687</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1693</start>
+            <end>1722</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1705</start>
+            <end>1722</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1712</start>
+            <end>1722</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1726</start>
+            <end>1746</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1734</start>
+            <end>1746</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1759</start>
+            <end>1809</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1777</start>
+            <end>1809</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1784</start>
+            <end>1809</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1791</start>
+            <end>1809</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1800</start>
+            <end>1803</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1806</start>
+            <end>1809</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1824</start>
+            <end>1851</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1852</start>
+            <end>1869</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1897</start>
+            <end>1914</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+        <I-annotation class="ru.ispras.texterra.core.nlp.datamodel.anaphora.Antecedent">
+            <start>1911</start>
+            <end>1914</end>
+            <annotated-text reference="0"/>
+            <value class="ru.ispras.texterra.core.nlp.datamodel.anaphora.CoreferenceValue"/>
+        </I-annotation>
+    </annotations>
+</NLP-document>
